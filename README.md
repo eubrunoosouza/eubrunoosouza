@@ -3,7 +3,7 @@
 ## I'm a Data Scientist, Engineer and Digital Marketing Specialist.
 <div align="center">
   <a href="https://github.com/eubrunoosouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eubrunoosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eubrunoosouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubrunoosouza&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
