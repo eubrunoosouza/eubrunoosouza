@@ -1,4 +1,4 @@
-### Hi! I'm Bruno Souza! 💻
+# Hi! I'm Bruno Souza! 👨‍💻
 
 ## I'm a Data Scientist, Engineer and Digital Marketing Specialist.
 <div align="center">
