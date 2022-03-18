@@ -1,8 +1,8 @@
 [![author](https://img.shields.io/badge/author-bruno.souza-red.svg)](https://www.linkedin.com/in/eubrunosouza/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eubrunoosouza)
 
-# Hi! I'm Bruno Souza!
+## Hi! I'm Bruno Souza!👋
 
-## I'm a Data Scientist, Engineer and Digital Marketing Specialist.
+### I'm a Data Scientist, Engineer and Digital Marketing Specialist.
 
 <div align="left">
   <a href="https://github.com/eubrunoosouza">
